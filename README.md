@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import rotr32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-rotr@deno/mod.js';
+import rotr32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-rotr@v0.2.2-deno/mod.js';
 ```
 
 #### rotr32( x, shift )
@@ -100,7 +100,7 @@ bstr = toBinaryStringUint32( y );
 ```javascript
 import toBinaryStringUint32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-to-binary-string@deno/mod.js';
 import MAX_INT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-uint32-max@deno/mod.js';
-import rotr32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-rotr@deno/mod.js';
+import rotr32 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint32-base-rotr@v0.2.2-deno/mod.js';
 
 var HALF;
 var x;
